@@ -1,0 +1,70 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background: #FF8C00;
+}
+
+button {
+    background: #FFFF00;
+    width: 60px;
+    height: 30px;       
+}
+
+input {
+    width: 120px;
+}
+
+.main {
+    text-align: center;
+}
+
+#input_form {
+    background: #88bf26;
+    width: 150px;
+    height: 150px;
+    /*border-radius: 15px;*/
+}
+
+#first_input {
+    position: relative;
+    top: 30px;
+}
+
+#last_input {
+    position: relative;
+    top: 40px;
+}
+
+#input_result {
+    position: relative;
+    top: 50px;
+}
+
+#button_form {
+    background: #FF0099;
+    width: 150px;
+    height: 130px;
+}
+
+#plus {
+    position: relative;
+    top: 30px;
+}
+
+#minus {
+    position: relative;
+    top: 30px;
+}
+
+#multiply {
+    position: relative;
+    top: 40px;
+}
+
+#divide {
+    position: relative;
+    top: 40px;
+}
